@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="2048"
+	maxImageHeight="2048"
+	galleryTitle="领证照"
+
+>
+  <image imageURL="images/DSC_8422.jpg"
+	thumbURL="thumbs/DSC_8422.jpg"
+	linkURL="images/DSC_8422.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8422.jpg">
+    <title><![CDATA[DSC_8422]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8437.jpg"
+	thumbURL="thumbs/DSC_8437.jpg"
+	linkURL="images/DSC_8437.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8437.jpg">
+    <title><![CDATA[DSC_8437]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8440.jpg"
+	thumbURL="thumbs/DSC_8440.jpg"
+	linkURL="images/DSC_8440.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8440.jpg">
+    <title><![CDATA[DSC_8440]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8453.jpg"
+	thumbURL="thumbs/DSC_8453.jpg"
+	linkURL="images/DSC_8453.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8453.jpg">
+    <title><![CDATA[DSC_8453]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8488.jpg"
+	thumbURL="thumbs/DSC_8488.jpg"
+	linkURL="images/DSC_8488.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8488.jpg">
+    <title><![CDATA[DSC_8488]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8542.jpg"
+	thumbURL="thumbs/DSC_8542.jpg"
+	linkURL="images/DSC_8542.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8542.jpg">
+    <title><![CDATA[DSC_8542]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8550.jpg"
+	thumbURL="thumbs/DSC_8550.jpg"
+	linkURL="images/DSC_8550.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8550.jpg">
+    <title><![CDATA[DSC_8550]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8569.jpg"
+	thumbURL="thumbs/DSC_8569.jpg"
+	linkURL="images/DSC_8569.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8569.jpg">
+    <title><![CDATA[DSC_8569]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8581.jpg"
+	thumbURL="thumbs/DSC_8581.jpg"
+	linkURL="images/DSC_8581.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8581.jpg">
+    <title><![CDATA[DSC_8581]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8611.jpg"
+	thumbURL="thumbs/DSC_8611.jpg"
+	linkURL="images/DSC_8611.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8611.jpg">
+    <title><![CDATA[DSC_8611]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8613.jpg"
+	thumbURL="thumbs/DSC_8613.jpg"
+	linkURL="images/DSC_8613.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8613.jpg">
+    <title><![CDATA[DSC_8613]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8647.jpg"
+	thumbURL="thumbs/DSC_8647.jpg"
+	linkURL="images/DSC_8647.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8647.jpg">
+    <title><![CDATA[DSC_8647]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8667.jpg"
+	thumbURL="thumbs/DSC_8667.jpg"
+	linkURL="images/DSC_8667.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8667.jpg">
+    <title><![CDATA[DSC_8667]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8673.jpg"
+	thumbURL="thumbs/DSC_8673.jpg"
+	linkURL="images/DSC_8673.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8673.jpg">
+    <title><![CDATA[DSC_8673]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8712.jpg"
+	thumbURL="thumbs/DSC_8712.jpg"
+	linkURL="images/DSC_8712.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8712.jpg">
+    <title><![CDATA[DSC_8712]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8729.jpg"
+	thumbURL="thumbs/DSC_8729.jpg"
+	linkURL="images/DSC_8729.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8729.jpg">
+    <title><![CDATA[DSC_8729]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8737.jpg"
+	thumbURL="thumbs/DSC_8737.jpg"
+	linkURL="images/DSC_8737.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8737.jpg">
+    <title><![CDATA[DSC_8737]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8745.jpg"
+	thumbURL="thumbs/DSC_8745.jpg"
+	linkURL="images/DSC_8745.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8745.jpg">
+    <title><![CDATA[DSC_8745]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8780.jpg"
+	thumbURL="thumbs/DSC_8780.jpg"
+	linkURL="images/DSC_8780.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8780.jpg">
+    <title><![CDATA[DSC_8780]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8791.jpg"
+	thumbURL="thumbs/DSC_8791.jpg"
+	linkURL="images/DSC_8791.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8791.jpg">
+    <title><![CDATA[DSC_8791]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8810.jpg"
+	thumbURL="thumbs/DSC_8810.jpg"
+	linkURL="images/DSC_8810.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8810.jpg">
+    <title><![CDATA[DSC_8810]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8836.jpg"
+	thumbURL="thumbs/DSC_8836.jpg"
+	linkURL="images/DSC_8836.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8836.jpg">
+    <title><![CDATA[DSC_8836]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8848.jpg"
+	thumbURL="thumbs/DSC_8848.jpg"
+	linkURL="images/DSC_8848.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8848.jpg">
+    <title><![CDATA[DSC_8848]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8872.jpg"
+	thumbURL="thumbs/DSC_8872.jpg"
+	linkURL="images/DSC_8872.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8872.jpg">
+    <title><![CDATA[DSC_8872]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8897.jpg"
+	thumbURL="thumbs/DSC_8897.jpg"
+	linkURL="images/DSC_8897.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8897.jpg">
+    <title><![CDATA[DSC_8897]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8915.jpg"
+	thumbURL="thumbs/DSC_8915.jpg"
+	linkURL="images/DSC_8915.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8915.jpg">
+    <title><![CDATA[DSC_8915]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8923.jpg"
+	thumbURL="thumbs/DSC_8923.jpg"
+	linkURL="images/DSC_8923.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8923.jpg">
+    <title><![CDATA[DSC_8923]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8942.jpg"
+	thumbURL="thumbs/DSC_8942.jpg"
+	linkURL="images/DSC_8942.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8942.jpg">
+    <title><![CDATA[DSC_8942]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8950.jpg"
+	thumbURL="thumbs/DSC_8950.jpg"
+	linkURL="images/DSC_8950.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8950.jpg">
+    <title><![CDATA[DSC_8950]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8990.jpg"
+	thumbURL="thumbs/DSC_8990.jpg"
+	linkURL="images/DSC_8990.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_8990.jpg">
+    <title><![CDATA[DSC_8990]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9010.jpg"
+	thumbURL="thumbs/DSC_9010.jpg"
+	linkURL="images/DSC_9010.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9010.jpg">
+    <title><![CDATA[DSC_9010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9043.jpg"
+	thumbURL="thumbs/DSC_9043.jpg"
+	linkURL="images/DSC_9043.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9043.jpg">
+    <title><![CDATA[DSC_9043]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9054.jpg"
+	thumbURL="thumbs/DSC_9054.jpg"
+	linkURL="images/DSC_9054.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9054.jpg">
+    <title><![CDATA[DSC_9054]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9061.jpg"
+	thumbURL="thumbs/DSC_9061.jpg"
+	linkURL="images/DSC_9061.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9061.jpg">
+    <title><![CDATA[DSC_9061]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9062.jpg"
+	thumbURL="thumbs/DSC_9062.jpg"
+	linkURL="images/DSC_9062.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9062.jpg">
+    <title><![CDATA[DSC_9062]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9067.jpg"
+	thumbURL="thumbs/DSC_9067.jpg"
+	linkURL="images/DSC_9067.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9067.jpg">
+    <title><![CDATA[DSC_9067]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9102.jpg"
+	thumbURL="thumbs/DSC_9102.jpg"
+	linkURL="images/DSC_9102.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9102.jpg">
+    <title><![CDATA[DSC_9102]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9114.jpg"
+	thumbURL="thumbs/DSC_9114.jpg"
+	linkURL="images/DSC_9114.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9114.jpg">
+    <title><![CDATA[DSC_9114]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9125.jpg"
+	thumbURL="thumbs/DSC_9125.jpg"
+	linkURL="images/DSC_9125.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9125.jpg">
+    <title><![CDATA[DSC_9125]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9133.jpg"
+	thumbURL="thumbs/DSC_9133.jpg"
+	linkURL="images/DSC_9133.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9133.jpg">
+    <title><![CDATA[DSC_9133]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9137.jpg"
+	thumbURL="thumbs/DSC_9137.jpg"
+	linkURL="images/DSC_9137.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9137.jpg">
+    <title><![CDATA[DSC_9137]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9164.jpg"
+	thumbURL="thumbs/DSC_9164.jpg"
+	linkURL="images/DSC_9164.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9164.jpg">
+    <title><![CDATA[DSC_9164]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9191.jpg"
+	thumbURL="thumbs/DSC_9191.jpg"
+	linkURL="images/DSC_9191.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/111111/DSC_9191.jpg">
+    <title><![CDATA[DSC_9191]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
