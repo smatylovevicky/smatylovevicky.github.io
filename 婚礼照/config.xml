@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="2048"
+	maxImageHeight="2048"
+	galleryTitle="婚礼照"
+
+>
+  <image imageURL="images/IMG_7100.jpg"
+	thumbURL="thumbs/IMG_7100.jpg"
+	linkURL="images/IMG_7100.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7100.JPG">
+    <title><![CDATA[IMG_7100]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7101.jpg"
+	thumbURL="thumbs/IMG_7101.jpg"
+	linkURL="images/IMG_7101.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7101.JPG">
+    <title><![CDATA[IMG_7101]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7102.jpg"
+	thumbURL="thumbs/IMG_7102.jpg"
+	linkURL="images/IMG_7102.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7102.JPG">
+    <title><![CDATA[IMG_7102]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7103.jpg"
+	thumbURL="thumbs/IMG_7103.jpg"
+	linkURL="images/IMG_7103.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7103.JPG">
+    <title><![CDATA[IMG_7103]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7104.jpg"
+	thumbURL="thumbs/IMG_7104.jpg"
+	linkURL="images/IMG_7104.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7104.JPG">
+    <title><![CDATA[IMG_7104]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7105.jpg"
+	thumbURL="thumbs/IMG_7105.jpg"
+	linkURL="images/IMG_7105.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7105.JPG">
+    <title><![CDATA[IMG_7105]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7106.jpg"
+	thumbURL="thumbs/IMG_7106.jpg"
+	linkURL="images/IMG_7106.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7106.JPG">
+    <title><![CDATA[IMG_7106]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7107.jpg"
+	thumbURL="thumbs/IMG_7107.jpg"
+	linkURL="images/IMG_7107.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7107.JPG">
+    <title><![CDATA[IMG_7107]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7108.jpg"
+	thumbURL="thumbs/IMG_7108.jpg"
+	linkURL="images/IMG_7108.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7108.JPG">
+    <title><![CDATA[IMG_7108]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7109.jpg"
+	thumbURL="thumbs/IMG_7109.jpg"
+	linkURL="images/IMG_7109.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7109.JPG">
+    <title><![CDATA[IMG_7109]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7110.jpg"
+	thumbURL="thumbs/IMG_7110.jpg"
+	linkURL="images/IMG_7110.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7110.JPG">
+    <title><![CDATA[IMG_7110]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7111.jpg"
+	thumbURL="thumbs/IMG_7111.jpg"
+	linkURL="images/IMG_7111.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7111.JPG">
+    <title><![CDATA[IMG_7111]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7112.jpg"
+	thumbURL="thumbs/IMG_7112.jpg"
+	linkURL="images/IMG_7112.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7112.JPG">
+    <title><![CDATA[IMG_7112]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_7113.jpg"
+	thumbURL="thumbs/IMG_7113.jpg"
+	linkURL="images/IMG_7113.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/11/IMG_7113.JPG">
+    <title><![CDATA[IMG_7113]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
