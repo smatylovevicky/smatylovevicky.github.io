@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="冲绳之旅"
+
+>
+  <image imageURL="images/DJI_0065.jpg"
+	thumbURL="thumbs/DJI_0065.jpg"
+	linkURL="images/DJI_0065.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DJI_0065.JPG">
+    <title><![CDATA[DJI_0065]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DJI_0084.jpg"
+	thumbURL="thumbs/DJI_0084.jpg"
+	linkURL="images/DJI_0084.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DJI_0084.JPG">
+    <title><![CDATA[DJI_0084]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02095.jpg"
+	thumbURL="thumbs/DSC02095.jpg"
+	linkURL="images/DSC02095.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02095.JPG">
+    <title><![CDATA[DSC02095]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02103.jpg"
+	thumbURL="thumbs/DSC02103.jpg"
+	linkURL="images/DSC02103.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02103.JPG">
+    <title><![CDATA[DSC02103]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02109.jpg"
+	thumbURL="thumbs/DSC02109.jpg"
+	linkURL="images/DSC02109.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02109.JPG">
+    <title><![CDATA[DSC02109]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02132.jpg"
+	thumbURL="thumbs/DSC02132.jpg"
+	linkURL="images/DSC02132.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02132.JPG">
+    <title><![CDATA[DSC02132]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02178.jpg"
+	thumbURL="thumbs/DSC02178.jpg"
+	linkURL="images/DSC02178.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02178.JPG">
+    <title><![CDATA[DSC02178]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02183.jpg"
+	thumbURL="thumbs/DSC02183.jpg"
+	linkURL="images/DSC02183.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02183.JPG">
+    <title><![CDATA[DSC02183]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02193.jpg"
+	thumbURL="thumbs/DSC02193.jpg"
+	linkURL="images/DSC02193.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02193.JPG">
+    <title><![CDATA[DSC02193]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02198.jpg"
+	thumbURL="thumbs/DSC02198.jpg"
+	linkURL="images/DSC02198.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02198.JPG">
+    <title><![CDATA[DSC02198]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02234.jpg"
+	thumbURL="thumbs/DSC02234.jpg"
+	linkURL="images/DSC02234.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02234.JPG">
+    <title><![CDATA[DSC02234]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02235.jpg"
+	thumbURL="thumbs/DSC02235.jpg"
+	linkURL="images/DSC02235.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02235.JPG">
+    <title><![CDATA[DSC02235]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02247.jpg"
+	thumbURL="thumbs/DSC02247.jpg"
+	linkURL="images/DSC02247.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02247.JPG">
+    <title><![CDATA[DSC02247]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02254.jpg"
+	thumbURL="thumbs/DSC02254.jpg"
+	linkURL="images/DSC02254.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02254.JPG">
+    <title><![CDATA[DSC02254]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02276.jpg"
+	thumbURL="thumbs/DSC02276.jpg"
+	linkURL="images/DSC02276.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02276.JPG">
+    <title><![CDATA[DSC02276]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02278.jpg"
+	thumbURL="thumbs/DSC02278.jpg"
+	linkURL="images/DSC02278.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02278.JPG">
+    <title><![CDATA[DSC02278]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02293.jpg"
+	thumbURL="thumbs/DSC02293.jpg"
+	linkURL="images/DSC02293.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02293.JPG">
+    <title><![CDATA[DSC02293]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02299.jpg"
+	thumbURL="thumbs/DSC02299.jpg"
+	linkURL="images/DSC02299.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02299.JPG">
+    <title><![CDATA[DSC02299]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02320.jpg"
+	thumbURL="thumbs/DSC02320.jpg"
+	linkURL="images/DSC02320.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02320.JPG">
+    <title><![CDATA[DSC02320]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02328.jpg"
+	thumbURL="thumbs/DSC02328.jpg"
+	linkURL="images/DSC02328.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02328.JPG">
+    <title><![CDATA[DSC02328]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02331.jpg"
+	thumbURL="thumbs/DSC02331.jpg"
+	linkURL="images/DSC02331.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02331.JPG">
+    <title><![CDATA[DSC02331]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02335.jpg"
+	thumbURL="thumbs/DSC02335.jpg"
+	linkURL="images/DSC02335.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02335.JPG">
+    <title><![CDATA[DSC02335]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02354.jpg"
+	thumbURL="thumbs/DSC02354.jpg"
+	linkURL="images/DSC02354.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02354.JPG">
+    <title><![CDATA[DSC02354]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02376.jpg"
+	thumbURL="thumbs/DSC02376.jpg"
+	linkURL="images/DSC02376.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02376.JPG">
+    <title><![CDATA[DSC02376]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02416.jpg"
+	thumbURL="thumbs/DSC02416.jpg"
+	linkURL="images/DSC02416.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02416.JPG">
+    <title><![CDATA[DSC02416]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02641.jpg"
+	thumbURL="thumbs/DSC02641.jpg"
+	linkURL="images/DSC02641.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02641.JPG">
+    <title><![CDATA[DSC02641]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02664.jpg"
+	thumbURL="thumbs/DSC02664.jpg"
+	linkURL="images/DSC02664.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02664.JPG">
+    <title><![CDATA[DSC02664]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02665.jpg"
+	thumbURL="thumbs/DSC02665.jpg"
+	linkURL="images/DSC02665.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02665.JPG">
+    <title><![CDATA[DSC02665]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02674.jpg"
+	thumbURL="thumbs/DSC02674.jpg"
+	linkURL="images/DSC02674.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02674.JPG">
+    <title><![CDATA[DSC02674]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02694.jpg"
+	thumbURL="thumbs/DSC02694.jpg"
+	linkURL="images/DSC02694.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02694.JPG">
+    <title><![CDATA[DSC02694]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02696.jpg"
+	thumbURL="thumbs/DSC02696.jpg"
+	linkURL="images/DSC02696.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02696.JPG">
+    <title><![CDATA[DSC02696]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02704.jpg"
+	thumbURL="thumbs/DSC02704.jpg"
+	linkURL="images/DSC02704.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02704.JPG">
+    <title><![CDATA[DSC02704]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02708.jpg"
+	thumbURL="thumbs/DSC02708.jpg"
+	linkURL="images/DSC02708.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02708.JPG">
+    <title><![CDATA[DSC02708]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02712.jpg"
+	thumbURL="thumbs/DSC02712.jpg"
+	linkURL="images/DSC02712.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02712.JPG">
+    <title><![CDATA[DSC02712]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02715.jpg"
+	thumbURL="thumbs/DSC02715.jpg"
+	linkURL="images/DSC02715.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02715.JPG">
+    <title><![CDATA[DSC02715]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02735.jpg"
+	thumbURL="thumbs/DSC02735.jpg"
+	linkURL="images/DSC02735.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02735.JPG">
+    <title><![CDATA[DSC02735]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02744.jpg"
+	thumbURL="thumbs/DSC02744.jpg"
+	linkURL="images/DSC02744.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02744.JPG">
+    <title><![CDATA[DSC02744]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02749.jpg"
+	thumbURL="thumbs/DSC02749.jpg"
+	linkURL="images/DSC02749.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02749.JPG">
+    <title><![CDATA[DSC02749]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02753.jpg"
+	thumbURL="thumbs/DSC02753.jpg"
+	linkURL="images/DSC02753.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02753.JPG">
+    <title><![CDATA[DSC02753]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02759.jpg"
+	thumbURL="thumbs/DSC02759.jpg"
+	linkURL="images/DSC02759.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02759.JPG">
+    <title><![CDATA[DSC02759]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02767.jpg"
+	thumbURL="thumbs/DSC02767.jpg"
+	linkURL="images/DSC02767.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/smatyshi/Desktop/冲绳/DSC02767.JPG">
+    <title><![CDATA[DSC02767]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
